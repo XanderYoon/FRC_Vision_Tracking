@@ -1,4 +1,4 @@
-# Vision_Tracking
+# Vision_Tracking (Fall 2022)
 
 Problem Statement:
 Our project focuses on leveraging Python's OpenCV library to develop an advanced vision system that enables a robot to detect and center itself on various game implements, such as disks and balls, within a gaming environment. The primary objectives include not only detecting the presence of these objects but also extracting valuable information regarding their shape, distance from the robot, and color. This technology aims to enhance the robot's capabilities for precise object manipulation and navigation in gaming scenarios.
